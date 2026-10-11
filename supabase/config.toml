@@ -1,0 +1,5 @@
+[functions.bootstrap-admin]
+verify_jwt = false
+
+[functions.request-magic-link]
+verify_jwt = false
